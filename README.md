@@ -71,7 +71,7 @@ You can use __LibSass__ ([grunt-libsass](https://www.npmjs.org/package/grunt-lib
 Compass is really powerful and has a lot of great features but it requires the Compass Gem and takes a longer to compile than Libsass. The choice is yours.
 
 ###Using Compass
-If you want to use Compass, you'll need to the Compass Gem (Requires Ruby)
+If you want to use Compass, you'll need the Compass Gem (Requires Ruby)
 
 - Install the Compass Gem   
 ```
